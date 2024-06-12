@@ -1,0 +1,26 @@
+body {
+    background-color: #000; 
+    color: #fff; 
+}
+
+h1 {
+    color: #fff;
+}
+
+.card {
+    margin-top: px;
+}
+
+.card-title, .card-text {
+    font-size: 1.5rem;
+
+    border-radius: 5px;
+}
+
+.card-text {
+    font-size: 1.25rem;
+    font-weight: ;
+}
+.form-select{
+    height: -25%;
+}
